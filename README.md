@@ -24,8 +24,8 @@ $ tree
 │   ├── script.py.mako
 │   └── versions
 └── src    
-    ├── models                  # modules for placing the models
-    └── db_models.py            # table orm model
+    └── models                  # modules for placing the models
+        └── db_models.py            # table orm model
 
 ```
 
